@@ -1,0 +1,21 @@
+{
+  "name": "pig-latin",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "AsaToburen <atopettit@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.3"
+  }
+}
